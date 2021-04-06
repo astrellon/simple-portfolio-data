@@ -16,7 +16,7 @@
                     "* A simple diffing algorithm to reduce DOM manipulations.",
                     "* SVG support",
                     "* Supports both class and functional components.",
-                    "While I have created this website it in it is definite [strong](NOT) indented for production use!"
+                    "While I have created this website it in it is definitely [strong](NOT) indented for production use!"
                 ],
                 "links": [{
                     "url": "https://www.npmjs.com/package/simple-tsx-vdom",
