@@ -26,7 +26,7 @@
                     "As part of that I've re-created several systems for learning purposes.",
                     "This website is an example of that, it is built using my own state management ([link](simple-data-store | https://www.npmjs.com/package/simple-data-store)), virtual dom ([link](simple-tsx-vdom | https://www.npmjs.com/package/simple-tsx-vdom)) with server side rendering and hydration.",
                     "The source for [link](this data driven website | https://github.com/astrellon/simple-portfolio) along with the [link](data repo | https://github.com/astrellon/simple-portfolio-data).",
-                    "The background ripples effect is ported from sirxemic's [link](jquery ripples plugin | https://github.com/sirxemic/jquery.ripples/)."
+                    "The background ripples effect is ported from sirxemic's [link](jQuery Ripples Plugin | https://github.com/sirxemic/jquery.ripples/)."
                 ]
             }
         ]
