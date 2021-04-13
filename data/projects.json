@@ -22,7 +22,7 @@
                     "url": "https://www.npmjs.com/package/simple-tsx-vdom",
                     "icon": "npm"
                 }, {
-                    "url": "http://github.com/astrellon/simple-tsx-vdom",
+                    "url": "https://github.com/astrellon/simple-tsx-vdom",
                     "icon": "github"
                 }],
                 "pictures": [{
@@ -50,7 +50,7 @@
                     "url": "https://www.npmjs.com/package/simple-data-store",
                     "icon": "npm"
                 }, {
-                    "url": "http://github.com/astrellon/simple-data-store",
+                    "url": "https://github.com/astrellon/simple-data-store",
                     "icon": "github"
                 }],
                 "pictures": [{
@@ -77,7 +77,7 @@
                     "* Written in C++ using [link](SFML | https://www.sfml-dev.org/) for cross platform support.",
                     "* Makes use of [link](Box2D | https://box2d.org/) for physics, and [link](earcut | https://github.com/mapbox/earcut.hpp) for creating polygons for collisions.",
                     "* Tile based planets that use [link](tmxlite | https://github.com/fallahn/tmxlite) for loading [link](Tiled | https://www.mapeditor.org/) maps.",
-                    "* Uses [link](yoga | http://yogalayout.com/) for UI layout and [link](Dear ImGui | https://github.com/ocornut/imgui) for debug UI.",
+                    "* Uses [link](yoga | https://yogalayout.com/) for UI layout and [link](Dear ImGui | https://github.com/ocornut/imgui) for debug UI.",
                     "* All data is stored in plain JSON and loaded using [link](nlohmann JSON | https://github.com/nlohmann/json) for parsing.",
                     "I've also been keeping a dev log about my progress and uploading them to YouTube."
                 ],
