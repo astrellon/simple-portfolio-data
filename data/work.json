@@ -5,6 +5,24 @@
         "contents": [
             {
                 "text": [
+                    "[post-header](ThreeDivers | JAN 2020 - PRESENT)",
+                    "Working on a freight routing application for finding how to get cargo from A to B.",
+                    "Currently not released to the public so can't go into details too much.",
+                    "My work included:",
+                    "* A content server for processing data from multiple data sources into a unified structure that can then be manipulated further manually.",
+                    "* A main server for using the processed data for routing and cataloging relationships between the data.",
+                    "* A frontend for manipulating the data on in the content server.",
+                    "* Hosted on AWS using EC2, load balancers, RDS and S3."
+                ]
+            }
+        ]
+    },
+    {
+        "type": "post",
+        "pageId": "work",
+        "contents": [
+            {
+                "text": [
                     "[post-header](Metro Trains Melbourne | SEP 2018 - NOV 2020)",
                     "Metro Trains Melbourne needed a tool for monitoring real time voltages and currents for testing their new trains.",
                     "This work combined hardware installed in the field (created by my co-worker) and a server with a front end (created by me)",

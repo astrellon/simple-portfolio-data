@@ -10,13 +10,15 @@
                     "Main features:",
                     "* Flying your own spaceship from the cockpit.",
                     "* Walk around the interior of your spaceship and interact with different components.",
-                    "* Fly around large spaces, past stars, land on planets and dock with space stations.",
+                    "* Fly around large spaces, past stars, black holes, into nebulae, land on planets and dock with space stations.",
                     "* Dock a smaller ship in your larger ship for different away missions.",
                     "* Explore space to find old shipwrecks to find salvageable parts.",
                     "* Find asteroids to mine for resources that can be used for crafting new parts.",
+                    "* Be self-sufficient in deep space by looking after your ship.",
                     "* Made in Unity 2020",
                     "Some of these features are still being worked on, however I am keeping a devlog on YouTube.",
-                    "Unfortunately currently I am not releasing the source code, mostly because not all assets used are not open source."
+                    "It's very ambitious and who knows how far I'll get, but I've already gotten a lot further than I thought I would.",
+                    "Currently I'm not planning on releasing the source code as it also contains paid for Unity assets."
                 ],
                 "links": [{
                     "url": "https://www.youtube.com/playlist?list=PLTf8ZRLo3EcNqP13W1UTFdxuNUngYzYCV",
