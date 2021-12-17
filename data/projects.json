@@ -5,6 +5,46 @@
         "contents": [
             {
                 "text": [
+                    "[h3](Tailspin)",
+                    "A space game about going on an adventure and exploring space with some smart animal companions.",
+                    "Main features:",
+                    "* Flying your own spaceship from the cockpit.",
+                    "* Walk around the interior of your spaceship and interact with different components.",
+                    "* Fly around large spaces, past stars, land on planets and dock with space stations.",
+                    "* Dock a smaller ship in your larger ship for different away missions.",
+                    "* Explore space to find old shipwrecks to find salvageable parts.",
+                    "* Find asteroids to mine for resources that can be used for crafting new parts.",
+                    "* Made in Unity 2020",
+                    "Some of these features are still being worked on, however I am keeping a devlog on YouTube.",
+                    "Unfortunately currently I am not releasing the source code, mostly because not all assets used are not open source."
+                ],
+                "links": [{
+                    "url": "https://www.youtube.com/playlist?list=PLTf8ZRLo3EcNqP13W1UTFdxuNUngYzYCV",
+                    "icon": "youtube"
+                }],
+                "pictures": [{
+                    "url": "/assets/tailspinStarPlanetThumbnail.jpg",
+                    "caption": "A scene showing a nearby planet and the star at the center of the system.",
+                    "fullSizeUrl": "/assets/tailspinStarPlanet.jpg"
+                }, {
+                    "url": "/assets/tailspinTractorBeamsThumbnail.jpg",
+                    "caption": "A ship using it's tractor beams to pull in some rocks that have just been mined from an asteroid.",
+                    "fullSizeUrl": "/assets/tailspinTractorBeams.jpg"
+                }, {
+                    "url": "/assets/tailspinEquipmentThumbnail.jpg",
+                    "caption": "An example of a ship engine sitting outside of it's hardpoint before it's installed into the ship.",
+                    "fullSizeUrl": "/assets/tailspinEquipment.jpg"
+                }],
+                "picturePosition": "left"
+            }
+        ]
+    },
+    {
+        "type": "post",
+        "pageId": "projects",
+        "contents": [
+            {
+                "text": [
                     "[h3](Simple Virtual DOM)",
                     "I made my own virtual DOM inspired by [link](React | https://reactjs.org/) and [link](Preact | https://preactjs.com/).",
                     "It was created for learning but I wanted to take it to the point where I could build something non-trivial with it so this portfolio is the biggest example of it right now.",
@@ -90,16 +130,19 @@
                     "icon": "youtube"
                 }],
                 "pictures": [{
-                    "url": "/assets/spaceDoggo1.png",
-                    "caption": "A ship in space near a space station and star."
+                    "url": "/assets/spaceDoggoShipInteriorThumbnail.jpg",
+                    "caption": "The inside of a ship that you can pilot along with the dog player.",
+                    "fullSizeUrl": "/assets/spaceDoggoShipInterior.png"
                 },
                 {
-                    "url": "/assets/spaceDoggo2.png",
-                    "caption": "Dialog with another dog on a space station. You can see your ship outside too."
+                    "url": "/assets/spaceDoggoPortalThumbnail.jpg",
+                    "caption": "A spaceship near a portal showing what is visible on the other side.",
+                    "fullSizeUrl": "/assets/spaceDoggoPortal.png"
                 },
                 {
-                    "url": "/assets/spaceDoggo3.png",
-                    "caption": "A space portal that lets you see into another star system."
+                    "url": "/assets/spaceDoggoPlanetSurfaceThumbnail.jpg",
+                    "caption": "A planet surface with some local birds eating their food next to a nest.",
+                    "fullSizeUrl": "/assets/spaceDoggoPlanetSurface.png"
                 }],
                 "picturePosition": "right"
             }
@@ -153,7 +196,8 @@
                 }],
                 "pictures": [{
                     "url": "/assets/scalingOctoDubstep_small.jpg",
-                    "caption": "A screenshot of the UI in Unity."
+                    "caption": "A screenshot of the UI in Unity.",
+                    "fullSizeUrl": "/assets/scalingOctoDubstep.png"
                 }],
                 "picturePosition": "right"
             }

@@ -48,8 +48,7 @@
                 ],
                 "pictures": [{
                     "url": "/assets/rome2rioTickets_small.png",
-                    "caption": "An example of buying a train ticket in the UK directly with Rome2rio.",
-                    "fullSizeUrl": "/assets/rome2rioTickets.png"
+                    "caption": "An example of buying a train ticket in the UK directly with Rome2rio."
                 },
                 {
                     "url": "/assets/rome2rioSchedules.png",
