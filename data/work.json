@@ -6,14 +6,20 @@
             {
                 "text": [
                     "[post-header](ThreeDivers | JAN 2020 - PRESENT)",
-                    "Working on a freight routing application for finding how to get cargo from A to B.",
+                    "Working on a freight multi-modal routing application for finding how to get cargo from A to B.",
                     "Currently not released to the public so can't go into details too much.",
                     "My work included:",
                     "* A content server for processing data from multiple data sources into a unified structure that can then be manipulated further manually.",
                     "* A main server for using the processed data for routing and cataloging relationships between the data.",
                     "* A frontend for manipulating the data on in the content server.",
                     "* Hosted on AWS using EC2, load balancers, RDS and S3."
-                ]
+                ],
+                "pictures": [{
+                    "url": "/assets/threeDiversMockThumbnail.jpg",
+                    "caption": "A basic graphic of routing across different modes.",
+                    "fullSizeUrl": "/assets/threeDiversMock.jpg"
+                }],
+                "picturePosition": "left"
             }
         ]
     },
