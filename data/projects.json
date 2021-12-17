@@ -22,7 +22,8 @@
                 ],
                 "links": [{
                     "url": "https://www.youtube.com/playlist?list=PLTf8ZRLo3EcNqP13W1UTFdxuNUngYzYCV",
-                    "icon": "youtube"
+                    "icon": "youtube",
+                    "title": "Devlog Playlist"
                 }],
                 "pictures": [{
                     "url": "/assets/tailspinStarPlanetThumbnail.jpg",
@@ -62,10 +63,12 @@
                 ],
                 "links": [{
                     "url": "https://www.npmjs.com/package/simple-tsx-vdom",
-                    "icon": "npm"
+                    "icon": "npm",
+                    "title": "NPM Page"
                 }, {
                     "url": "https://github.com/astrellon/simple-tsx-vdom",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/simpleTsxVdom.jpg",
@@ -90,10 +93,12 @@
                 ],
                 "links": [{
                     "url": "https://www.npmjs.com/package/simple-data-store",
-                    "icon": "npm"
+                    "icon": "npm",
+                    "title": "NPM Page"
                 }, {
                     "url": "https://github.com/astrellon/simple-data-store",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/simpleDataStore.jpg",
@@ -125,11 +130,13 @@
                 ],
                 "links": [{
                     "url": "https://github.com/astrellon/simple-space",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 },
                 {
                     "url": "https://www.youtube.com/playlist?list=PLTf8ZRLo3EcP7A2US2CpGMTsEW_Kzezx8",
-                    "icon": "youtube"
+                    "icon": "youtube",
+                    "title": "Devlog Playlist"
                 }],
                 "pictures": [{
                     "url": "/assets/spaceDoggoShipInteriorThumbnail.jpg",
@@ -168,7 +175,8 @@
                 ],
                 "links": [{
                     "url": "https://github.com/astrellon/loss",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/loss.png",
@@ -194,7 +202,8 @@
                 ],
                 "links": [{
                     "url": "https://github.com/astrellon/ScalingOctoDubstep",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/scalingOctoDubstep_small.jpg",
@@ -221,7 +230,8 @@
                 ],
                 "links": [{
                     "url": "https://github.com/astrellon/mm",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/mmVoxels_small.png",
@@ -253,7 +263,8 @@
                 ],
                 "links": [{
                     "url": "https://github.com/astrellon/rouge",
-                    "icon": "github"
+                    "icon": "github",
+                    "title": "Github Repository"
                 }],
                 "pictures": [{
                     "url": "/assets/rouge.png",
