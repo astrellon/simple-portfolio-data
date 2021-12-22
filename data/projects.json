@@ -49,8 +49,9 @@
             {
                 "text": [
                     "[h3](Simple Virtual DOM)",
-                    "I made my own virtual DOM inspired by [link](React | https://reactjs.org/) and [link](Preact | https://preactjs.com/).",
+                    "I made my own virtual DOM (simple-tsx-vdom) inspired by [link](React | https://reactjs.org/) and [link](Preact | https://preactjs.com/).",
                     "It was created for learning but I wanted to take it to the point where I could build something non-trivial with it so this portfolio is the biggest example of it right now.",
+                    "You can find the source for this portfolio page on [link](GitHub | https://github.com/astrellon/simple-portfolio).",
                     "Main features:",
                     "* Small filesize (about 2.5kb after compression) written with no dependencies.",
                     "* Written in fairly straight forward TypeScript that is all class based and can be extended.",
@@ -59,7 +60,8 @@
                     "* A simple diffing algorithm to reduce DOM manipulations.",
                     "* SVG support",
                     "* Supports both class and functional components.",
-                    "While I have created this website it in it is definitely [strong](NOT) indented for production use!"
+                    "* Supports custom handling of removed elements. For example if an element is removed from the vdom you can control how it's removed from the DOM, such as via animation before it's completely removed.",
+                    "While I have created this website it in it is definitely [strong](NOT) intended for production use!"
                 ],
                 "links": [{
                     "url": "https://www.npmjs.com/package/simple-tsx-vdom",
