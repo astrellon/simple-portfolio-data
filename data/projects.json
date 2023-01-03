@@ -5,6 +5,40 @@
         "contents": [
             {
                 "text": [
+                    "[h3](Lysithea)",
+                    "A scripting language designed to live inside other systems to glue them together",
+                    "Main features:",
+                    "* Lisp style syntax.",
+                    "* Builtin support for booleans, doubles, strings, lists and key-value-pair objects.",
+                    "* Conditionals as expressions, use an if or switch statement like a function.",
+                    "* Virtual machine is very light weight and allows for using many at the same time.",
+                    "* Script execution can be controlled by the host environment, limit how many code lines can execute at a time.",
+                    "* Simple code, easy to port to new host systems.",
+                    "* Ported to C#, C++ and TypeScript. Examples written for Unity.",
+                    "* Reasonably good performance, compared to other NLua or MoonSharp for C#."
+                ],
+                "links": [{
+                    "url": "https://www.npmjs.com/package/lysithea-vm",
+                    "icon": "npm",
+                    "title": "NPM Page"
+                }, {
+                    "url": "https://github.com/astrellon/lysithea-vm",
+                    "icon": "github",
+                    "title": "Github Repository"
+                }, {
+                    "url": "https://www.youtube.com/watch?v=xeuKEHhp0jc",
+                    "icon": "youtube",
+                    "title": "Devlog"
+                }],
+                "pictures": [{
+                    "url": "/assets/lysitheaCode.png",
+                    "caption": "Example of code in Lysithea",
+                    "fullSizeUrl": "/assets/lysitheaCode.png"
+                }],
+                "picturePosition": "right"
+            },
+            {
+                "text": [
                     "[h3](Tailspin)",
                     "A space game about going on an adventure and exploring space with some smart animal companions.",
                     "Main features:",
